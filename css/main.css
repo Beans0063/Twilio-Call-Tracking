@@ -1,0 +1,87 @@
+html {
+	background-color: #fdfdfd;
+}
+
+body {
+	font: 1em Helvetica, Arial, sans-serif;
+	color: #222;
+}
+
+#container {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 1em;
+}
+
+#footer{
+	margin-top:2em;
+}
+
+h1 {
+	font-size: 2.2em;
+	text-align: center;
+}
+
+h3 {
+	font-size: 1.4em;
+	float:left;
+}
+
+p img {
+	float:right;
+}
+
+strong {
+	font-weight: bold;
+	text-shadow: #bbb 0px 1px 3px;
+}
+
+.confirm {
+	background-color:#9CFF9F;
+	border:1px solid #96ED9B;
+	font-size:1em;
+}
+#rounded-corner
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	width: 100%;
+	text-align:left;
+	border-collapse: collapse;
+	margin-bottom:10px;
+}
+#rounded-corner thead th.rounded-company
+{
+	background: #b9c9fe url('../images/left.png') left -1px no-repeat;
+}
+#rounded-corner thead th.rounded-q4
+{
+	background: #b9c9fe url('../images/right.png') right -1px no-repeat;
+}
+#rounded-corner th
+{
+	padding: 8px;
+	font-weight: normal;
+	font-size: 13px;
+	color: #039;
+	background: #b9c9fe;
+}
+#rounded-corner td
+{
+	padding: 8px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+}
+#rounded-corner tfoot td.rounded-foot-left
+{
+	background: #e8edff url('../images/botleft.png') left bottom no-repeat;
+}
+#rounded-corner tfoot td.rounded-foot-right
+{
+	background: #e8edff url('../images/botright.png') right bottom no-repeat;
+}
+#rounded-corner tbody tr:hover td
+{
+	background: #d0dafd;
+}
