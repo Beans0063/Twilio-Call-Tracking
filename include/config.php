@@ -3,8 +3,8 @@
 	require "db.php";
 	define('AGENT_NUMBER', '8583829141');
 	$ApiVersion = "2010-04-01";
-	$AccountSid = "AC55887ef8de75bc64ab60f38bd7c8b42e";
-	$AuthToken = "2fa7a06401bf56a71a8fb6e044977a6f";
+	$AccountSid = "ACxxxxx";
+	$AuthToken = "xxxxxxxx";
 
 	function format_phone($phone)
 	{
