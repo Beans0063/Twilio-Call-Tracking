@@ -20,6 +20,9 @@ writeable and editing the configuration file.
 
 4. Access via browser `http://yourserver/call_tracking/index.php`
 
+5. You'll need an account at http://www.twilio.com.  Set your Sandbox phone number or purchased number's Voice URL to http://www.yourserver.com/handle_incoming_call.php.  If you have upgraded your Twilio account, you can use this application's UI to configure your numbers. 
+
+
 License
 =======
 
