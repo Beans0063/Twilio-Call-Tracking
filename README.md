@@ -3,8 +3,7 @@ Twilio Call Tracking Demo
 
 Call tracking works with the Twilio API, so you'll need an account and phone 
 number at Twilio before you can get started. Twilio sells simple, pay as you 
-go phone services, and you can sign up for a free account with $30 of free 
-credits at [http://www.twilio.com](http://www.twilio.com).
+go phone services, sign up at [http://www.twilio.com](http://www.twilio.com).
 
 Installation
 ============
